@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+matplotlib
+anndata
+opencv-python
+scikit-image
+tensorflow
+stardist
+seaborn
